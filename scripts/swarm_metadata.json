@@ -1,0 +1,67 @@
+{
+  "account-overview-swarm": {
+    "category": "account-research-and-planning",
+    "readme_order": 10,
+    "summary": "Build a decision-ready account brief with verified facts, strategic context, stakeholder coverage, risks, and next actions."
+  },
+  "closing-pipeline-swarm": {
+    "category": "closing-and-pipeline-management",
+    "readme_order": 20,
+    "summary": "Pressure-test late-stage close plans, commercial blockers, and forecast realism when commit judgment matters."
+  },
+  "customer-success-swarm": {
+    "category": "customer-success",
+    "readme_order": 10,
+    "summary": "Plan onboarding, adoption, renewal readiness, expansion support, and reference creation for early customers."
+  },
+  "deal-next-steps-swarm": {
+    "category": "closing-and-pipeline-management",
+    "readme_order": 10,
+    "summary": "Recommend the next best moves on an in-flight deal before it becomes a close or forecast review."
+  },
+  "discovery-demo-swarm": {
+    "category": "discovery-demo-and-pitching",
+    "readme_order": 10,
+    "summary": "Prepare discovery and demo calls with tighter research, questions, objections, and follow-up."
+  },
+  "icp-prospecting-swarm": {
+    "category": "prospecting",
+    "readme_order": 10,
+    "summary": "Define the ideal customer profile, rank buying signals, and map likely entry points for outreach."
+  },
+  "inbound-qualification-swarm": {
+    "category": "inbound-qualification",
+    "readme_order": 10,
+    "summary": "Triage inbound demand, judge fit and urgency, and route the next step with more discipline."
+  },
+  "multi-stakeholder-outreach-swarm": {
+    "category": "account-penetration",
+    "readme_order": 10,
+    "summary": "Coordinate outreach across a buying committee with role-specific messaging, sequencing, and review boundaries."
+  },
+  "outbound-appointment-setting-swarm": {
+    "category": "outreach-and-appointment-setting",
+    "readme_order": 10,
+    "summary": "Plan outbound that books first meetings with stronger hooks, sharper CTAs, and cleaner sequencing."
+  },
+  "pipeline-generation-swarm": {
+    "category": "prospecting",
+    "readme_order": 20,
+    "summary": "Build a fresh ranked target-account plan for net-new pipeline using fit, timing, stakeholders, and outreach hypotheses."
+  },
+  "sales-materials-swarm": {
+    "category": "sales-materials",
+    "readme_order": 10,
+    "summary": "Turn the core sales narrative into practical decks, outreach assets, demo structure, proof packaging, and reusable collateral."
+  },
+  "sales-narrative-swarm": {
+    "category": "narrative-and-product-marketing",
+    "readme_order": 10,
+    "summary": "Build a sales narrative with buyer pain, value framing, proof, objections, and next actions."
+  },
+  "signal-monitoring-to-action-swarm": {
+    "category": "prospecting",
+    "readme_order": 30,
+    "summary": "Triage ongoing market and account signals into a ranked action queue for accounts or segments you already care about."
+  }
+}

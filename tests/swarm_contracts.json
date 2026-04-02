@@ -1,0 +1,228 @@
+{
+  "defaults": {
+    "required_headings": [
+      "## Overview",
+      "## When to Use",
+      "## When Not to Use",
+      "## Swarm Lanes",
+      "## Workflow",
+      "## Output Contract",
+      "## Approval Boundaries",
+      "## Failure Shields"
+    ],
+    "required_phrases": [
+      "Launch four read-only sub-agents"
+    ],
+    "banned_terms": []
+  },
+  "swarms": {
+    "account-overview-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Account Facts Scout",
+        "### Lane 2: Strategic Context Scout",
+        "### Lane 3: Relationship And Stakeholder Scout",
+        "### Lane 4: Opportunity And Risk Scout"
+      ],
+      "required_output_markers": [
+        "1. `Account Snapshot`",
+        "2. `Why This Account Matters`",
+        "3. `Strategic Context`",
+        "4. `Stakeholders And Relationship Coverage`",
+        "5. `Opportunity Areas`",
+        "6. `Risks And Unknowns`",
+        "7. `Recommended Next Actions`"
+      ]
+    },
+    "closing-pipeline-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Deal Reality Analyst",
+        "### Lane 2: Commercial And Procurement Analyst",
+        "### Lane 3: Stakeholder And Champion Analyst",
+        "### Lane 4: Close Plan Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Closing Snapshot`",
+        "2. `Reality Check`",
+        "3. `Commercial And Process Risks`",
+        "4. `Champion And Stakeholder Gaps`",
+        "5. `Close Plan`",
+        "6. `Fallback Paths`"
+      ]
+    },
+    "customer-success-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Onboarding And Implementation Planner",
+        "### Lane 2: Adoption And Value Realization Analyst",
+        "### Lane 3: Renewal And Expansion Analyst",
+        "### Lane 4: Risk And Reference Readiness Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Customer Success Goal`",
+        "2. `Implementation And Onboarding Plan`",
+        "3. `Adoption And Value Signals`",
+        "4. `Renewal And Expansion Risks`",
+        "5. `Reference And Advocacy Readiness`",
+        "6. `Recommended Next Actions`"
+      ]
+    },
+    "deal-next-steps-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Deal State Analyst",
+        "### Lane 2: Communication Analyst",
+        "### Lane 3: Stakeholder Coverage Analyst",
+        "### Lane 4: Risk And Timing Analyst"
+      ],
+      "required_output_markers": [
+        "1. `Deal Snapshot`",
+        "2. `Signals From Recent Activity`",
+        "3. `Coverage Gaps`",
+        "4. `Top Risks`",
+        "5. `Recommended Next Actions`",
+        "6. `Open Questions`"
+      ]
+    },
+    "discovery-demo-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Pre-Call Research Analyst",
+        "### Lane 2: Discovery Planner",
+        "### Lane 3: Demo Tailoring Designer",
+        "### Lane 4: Objection And Follow-Up Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Call Goal`",
+        "2. `Discovery Plan`",
+        "3. `Demo Focus`",
+        "4. `Likely Objections`",
+        "5. `Follow-Up Plan`",
+        "6. `Open Questions`"
+      ]
+    },
+    "icp-prospecting-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: ICP Definition Analyst",
+        "### Lane 2: Signal And Trigger Scout",
+        "### Lane 3: Account Prioritization Analyst",
+        "### Lane 4: Entry Point Mapper"
+      ],
+      "required_output_markers": [
+        "1. `ICP Definition`",
+        "2. `Priority Signals`",
+        "3. `Ranked Prospect Segments Or Accounts`",
+        "4. `Likely Entry Points`",
+        "5. `Prospecting Plan`",
+        "6. `Disqualifiers And Watchouts`"
+      ]
+    },
+    "inbound-qualification-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Inquiry And Context Analyst",
+        "### Lane 2: Qualification Analyst",
+        "### Lane 3: Routing And Response Planner",
+        "### Lane 4: Risk And Disqualification Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Inbound Snapshot`",
+        "2. `Qualification Read`",
+        "3. `Recommended Route`",
+        "4. `Questions To Resolve`",
+        "5. `Risks Or Disqualifiers`",
+        "6. `Recommended Next Actions`"
+      ]
+    },
+    "multi-stakeholder-outreach-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Buying Committee Mapper",
+        "### Lane 2: Persona Messaging Designer",
+        "### Lane 3: Sequence Orchestrator",
+        "### Lane 4: Consistency And Risk Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Target Stakeholder Map`",
+        "2. `Persona Messaging Matrix`",
+        "3. `Proposed Sequence`",
+        "4. `Risks And Consistency Checks`",
+        "5. `Approval-Ready Next Actions`"
+      ]
+    },
+    "pipeline-generation-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Signal Scout",
+        "### Lane 2: Account Fit Analyst",
+        "### Lane 3: Stakeholder Mapper",
+        "### Lane 4: Outreach Hypothesis Builder"
+      ],
+      "required_output_markers": [
+        "1. `Pipeline Goal`",
+        "2. `Ranked Target Accounts`",
+        "3. `Why Now`",
+        "4. `Likely Stakeholders`",
+        "5. `Outreach Hypotheses`",
+        "6. `Recommended Next Actions`",
+        "7. `Accounts To Deprioritize`"
+      ]
+    },
+    "outbound-appointment-setting-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Offer And CTA Strategist",
+        "### Lane 2: Messaging Angle Designer",
+        "### Lane 3: Sequence Planner",
+        "### Lane 4: Reply Handling Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Target Audience`",
+        "2. `Primary Hooks`",
+        "3. `Meeting-Setting Sequence`",
+        "4. `Reply Handling`",
+        "5. `Risks And Adjustments`",
+        "6. `Approval-Ready Next Actions`"
+      ]
+    },
+    "sales-narrative-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Buyer Pain Analyst",
+        "### Lane 2: Value Proposition Designer",
+        "### Lane 3: Proof And Objection Analyst",
+        "### Lane 4: Narrative Packaging Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Target Buyer And Pain`",
+        "2. `Narrative Core`",
+        "3. `Proof And Differentiation`",
+        "4. `Objections And Weak Spots`",
+        "5. `Recommended Next Actions`"
+      ]
+    },
+    "sales-materials-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Sales Deck Architect",
+        "### Lane 2: Outreach Asset Planner",
+        "### Lane 3: Demo Flow Designer",
+        "### Lane 4: Proof And Collateral Reviewer"
+      ],
+      "required_output_markers": [
+        "1. `Materials Goal`",
+        "2. `Core Narrative Coverage`",
+        "3. `Deck And Presentation Plan`",
+        "4. `Outreach And Demo Assets`",
+        "5. `Proof And Supporting Collateral`",
+        "6. `Recommended Next Actions`"
+      ]
+    },
+    "signal-monitoring-to-action-swarm": {
+      "required_lane_headings": [
+        "### Lane 1: Event Monitor",
+        "### Lane 2: Significance Analyst",
+        "### Lane 3: Relationship Impact Mapper",
+        "### Lane 4: Action Planner"
+      ],
+      "required_output_markers": [
+        "1. `Scope`",
+        "2. `Ranked Signals`",
+        "3. `Why They Matter`",
+        "4. `Affected Accounts Or Relationships`",
+        "5. `Recommended Actions`",
+        "6. `Ignore Or Watchlist Items`"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal Monitoring To Action Swarm"
+  short_description: "Triage watchlist signals into ranked actions"
+  default_prompt: "Use $signal-monitoring-to-action-swarm to triage ongoing account and market signals across a watchlist, territory, or book into a ranked action queue and recommended actions."

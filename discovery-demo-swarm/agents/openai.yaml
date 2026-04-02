@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discovery Demo Swarm"
+  short_description: "Prepare discovery and demo calls"
+  default_prompt: "Use $discovery-demo-swarm to plan research, discovery, demo tailoring, objections, and follow-up for a live sales conversation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deal Next Steps Swarm"
+  short_description: "Recommend next moves on an in-flight deal"
+  default_prompt: "Use $deal-next-steps-swarm to analyze an in-flight active deal through multiple lenses and recommend the next best actions before it becomes a close or forecast review."

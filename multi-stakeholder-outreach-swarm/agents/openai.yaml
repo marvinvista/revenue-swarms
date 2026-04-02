@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Stakeholder Outreach Swarm"
+  short_description: "Coordinate outreach across a buying committee"
+  default_prompt: "Use $multi-stakeholder-outreach-swarm to map stakeholders, design persona-specific messaging, and plan approval-ready outreach across an account."

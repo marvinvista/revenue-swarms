@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inbound Qualification Swarm"
+  short_description: "Triage inbound fit, urgency, and routing"
+  default_prompt: "Use $inbound-qualification-swarm to evaluate inbound fit, urgency, routing, and disqualifiers before deciding the next step."

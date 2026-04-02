@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Success Swarm"
+  short_description: "Plan onboarding, adoption, renewals, and expansion support"
+  default_prompt: "Use $customer-success-swarm to turn a newly won or active customer into a practical onboarding, adoption, renewal, and expansion plan."

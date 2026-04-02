@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outbound Appointment Setting Swarm"
+  short_description: "Book first meetings from outbound"
+  default_prompt: "Use $outbound-appointment-setting-swarm to design hooks, CTAs, sequencing, and reply handling for outbound meeting setting."

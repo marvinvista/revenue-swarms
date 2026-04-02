@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Materials Swarm"
+  short_description: "Turn the narrative into usable sales materials"
+  default_prompt: "Use $sales-materials-swarm to turn a sales narrative into practical decks, outreach assets, demo structure, proof packaging, and reusable collateral."

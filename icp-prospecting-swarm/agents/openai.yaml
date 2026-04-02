@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICP Prospecting Swarm"
+  short_description: "Define ICP and prospecting targets"
+  default_prompt: "Use $icp-prospecting-swarm to define the ICP, rank buying signals, and map likely entry points for outreach."

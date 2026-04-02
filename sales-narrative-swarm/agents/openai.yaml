@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Narrative Swarm"
+  short_description: "Build a sales narrative"
+  default_prompt: "Use $sales-narrative-swarm to turn product context, buyer pain, proof, and objections into a sharper sales narrative."

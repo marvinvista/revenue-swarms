@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pipeline Generation Swarm"
+  short_description: "Build ranked target accounts for net-new pipeline"
+  default_prompt: "Use $pipeline-generation-swarm to build or refresh a ranked target-account plan for net-new pipeline using fit, timing signals, stakeholders, outreach hypotheses, and next actions."

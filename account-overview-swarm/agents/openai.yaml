@@ -1,0 +1,4 @@
+interface:
+  display_name: "Account Overview Swarm"
+  short_description: "Build a decision-ready account brief"
+  default_prompt: "Use $account-overview-swarm to build a multi-agent account brief with verified facts, strategic context, stakeholder coverage, risks, and next actions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Closing Pipeline Swarm"
+  short_description: "Pressure-test late-stage close and forecast"
+  default_prompt: "Use $closing-pipeline-swarm to pressure-test a late-stage close plan, stakeholder coverage, commercial risk, and forecast realism before commit."
